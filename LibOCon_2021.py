@@ -1,5 +1,5 @@
 '''
-Module to demonstrate SourceForge Methods in the Calc Service	
+Module to demonstrate ScriptForge Methods in the Calc Service	
 	
 Activate	in create_sheet_example
 ClearAll	in clear_contents_v1
